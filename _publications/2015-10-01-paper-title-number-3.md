@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Wearable-based digital biomarker provides a valid alternative to traditional clinical measures for post-stroke upper-limb motor recovery"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
