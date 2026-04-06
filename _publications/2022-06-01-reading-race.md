@@ -6,7 +6,10 @@ permalink: /publication/2022-06-01-reading-race
 excerpt: 'We identified that the AI models could differentiate the demographic attributes of patients even after augmentation, which posting an enormous risk for all model deployments in medical imaging'
 date: 2022-06-01
 venue: 'The Lancet Digital Health'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://academicpages.github.io/files/reading_race.pdf'
+
+citation: 'Gichoya, J. W., Banerjee, I., Bhimireddy, A. R., Burns, J. L., Celi, L. A., Chen, L. C., ...Wang, R., ... & Zhang, H. (in alphabetical order) (2022). AI recognition of patient race in medical imaging: a modelling study. The Lancet Digital Health, 4(6), e406-e414.'
+
 ---
 
 **Background** Previous studies in medical imaging have shown disparate abilities of artificial intelligence (AI) to detect a person’s race, yet there is no known correlation for race on medical imaging that would be obvious to human experts when interpreting the images. We aimed to conduct a comprehensive evaluation of the ability of AI to recognise a patient’s racial identity from medical images. 
