@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2022-06-01-reading-race
 date: 2022-06-01
 venue: 'The Lancet Digital Health'
-paperurl: 'https://academicpages.github.io/files/reading_race.pdf'
+paperurl: 'https://ryan-re-wang.github.io/files/reading_race.pdf'
 
 citation: 'Gichoya, J. W., Banerjee, I., Bhimireddy, A. R., Burns, J. L., Celi, L. A., Chen, L. C., ...<b>Wang, R.</b>, ... & Zhang, H. (in alphabetical order) (2022). AI recognition of patient race in medical imaging: a modelling study. The Lancet Digital Health, 4(6), e406-e414.'
 
