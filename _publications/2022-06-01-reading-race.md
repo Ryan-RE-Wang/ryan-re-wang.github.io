@@ -3,7 +3,6 @@ title: "AI recognition of patient race in medical imaging: a modelling study"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-06-01-reading-race
-excerpt: 'We identified that the AI models could differentiate the demographic attributes of patients even after augmentation, which posting an enormous risk for all model deployments in medical imaging'
 date: 2022-06-01
 venue: 'The Lancet Digital Health'
 paperurl: 'https://academicpages.github.io/files/reading_race.pdf'
