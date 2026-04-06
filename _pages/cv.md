@@ -6,8 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[View Full CV (PDF)](/file/CV.pdf)
+
 {% include base_path %}
+
+[View Full CV (PDF)](/file/CV.pdf)
 
 Education
 ======
