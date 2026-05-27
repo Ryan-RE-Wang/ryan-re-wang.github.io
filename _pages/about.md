@@ -13,4 +13,4 @@ Prior to joining UMass, Ryan earned his B.S. in Computer Science from National T
 
 ### Recent Updates
 * **[May 2026]** Passed Ph.D. Portfolio with Distinction.
-* **[May 2026]** Paper on using wearable sensor biomarkers for upper limb motor deficits monitoring has been provisionally accepted at Science Translational Medicine.
+* **[May 2026]** Paper on using wearable sensor biomarkers for upper limb motor deficits monitoring has been provisionally accepted at **Science Translational Medicine**.
