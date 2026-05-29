@@ -15,9 +15,9 @@ Full CV (PDF)
 
 Education
 ======
-* Ph.D in Computer Science, University of Massachusetts Amherst, 2028 (expected)
-* M.S. in Computer Science, University of Massachusetts Amherst, 2026 (expected)
-* B.S. in Computer Science, National Tsing Hua University, 2022
+* Ph.D in Computer Science, University of Massachusetts Amherst, 2028 (expected) — *Passed Portfolio with Distinction*
+* M.S. in Computer Science, University of Massachusetts Amherst, 05/2026 
+* B.S. in Computer Science, National Tsing Hua University, 06/2022
 
 Experience
 ======
