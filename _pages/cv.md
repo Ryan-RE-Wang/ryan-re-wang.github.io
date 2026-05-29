@@ -11,7 +11,7 @@ redirect_from:
 
 Full CV (PDF)
 ======
-* [View Full CV (PDF)](https://ryan-re-wang.github.io/files/CV.pdf)
+* [View Full CV (PDF)](https://docs.google.com/document/d/13hdBg-ulqMBoSEqP12jNJnmkUVkNXq1aU1rYxbEdfvw/export?format=pdf)
 
 Education
 ======
