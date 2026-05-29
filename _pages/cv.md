@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV (PDF)
-======
 * [View Full CV (PDF)](https://docs.google.com/document/d/13hdBg-ulqMBoSEqP12jNJnmkUVkNXq1aU1rYxbEdfvw/export?format=pdf)
 
 Education
