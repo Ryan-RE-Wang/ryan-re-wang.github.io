@@ -21,9 +21,9 @@ Experience
 ======
 * 09/2023 - present: Research assistant, University of Massachusetts Amherst, Advanced Human Health Analytics Lab.
   * Advised by Prof. Sunghoon Ivan Lee
-  * Developed a wearable-based digital biomarker for monitoring upper-limb stroke recovery, enabling a 60% reduction in required clinical trial sample size and supporting remote recovery monitoring. Manuscript under review at Science Translational Medicine.
+  * Developed a wearable-based digital biomarker for monitoring upper-limb stroke recovery, enabling a 60% reduction in required clinical trial sample size and supporting remote recovery monitoring. Manuscript under review.
   * Applied ML models integrating baseline clinical and kinematic data to reduce 3-month outcome prediction error by 31–52%, enabling earlier identification of at-risk patients and personalized rehabilitation planning. Manuscript in preparation.
-  * Engineered a wrist-worn digital biomarker to quantify compensation movements; achieved a 0.67 Spearman’s correlation with compensation scores, providing a validated metric for objective, long-term monitoring. Manuscript in preparation for Neurorehabilitation and Neural Repair.
+  * Engineered a wrist-worn digital biomarker to quantify compensation movements; achieved a 0.67 Spearman’s correlation with compensation scores, providing a validated metric for objective, long-term monitoring. Manuscript in preparation.
 
 * 06/2025 - 09/2025: Research Mentor, University of Massachusetts Amherst
   * Supervised undergraduate research on predictive modeling of stroke risk using electronic health records (EHR).
