@@ -13,4 +13,4 @@ Prior to joining UMass, Ryan earned his B.S. in Computer Science from National T
 
 ### Recent Updates
 * **[May 2026]** Passed Ph.D. Portfolio with Distinction.
-* **[Sept 2026]** Our paper, "Assessment of upper-limb motor recovery after stroke using a wrist-worn accelerometer digital biomarker," is now published in <i>Science Translational Medicine<i>.
+* **[Sep 2026]** Our paper, "Assessment of upper-limb motor recovery after stroke using a wrist-worn accelerometer digital biomarker," is now published in <i>Science Translational Medicine<i>.
